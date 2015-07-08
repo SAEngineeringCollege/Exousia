@@ -2740,3 +2740,9 @@ span.stButton_gradient,
 p{
   font-size: 18px;
 }
+
+.rules li{
+  font-size: 20px;
+  
+  padding-top: 20px;
+}
